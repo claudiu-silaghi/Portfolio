@@ -1,1 +1,1 @@
-claudiu-silaghi.github.com
+github.com/claudiu-silaghi
